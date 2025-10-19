@@ -5,9 +5,3 @@ Conn_02x01,J3,PinHeader_1x02_P2.54mm_Vertical,C2915055,1
 Conn_02x02_Counter_Clockwise,"J4,J5,J6",PinHeader_1x04_P2.54mm_Vertical,C5116483,3
 Conn_02x01,"J1,J7",TerminalBlock_bornier-2_P5.08mm,C592976,2
 Conn_02x20_Counter_Clockwise,J2,PinHeader_2x20_P2.54mm_Vertical,C725892,1
-~,KR3,Korry Switch,,1
-~,KR5,Korry Switch,,1
-~,KR6,Korry Switch,,1
-~,KR4,Korry Switch,,1
-~,KR1,Korry Switch,,1
-~,KR2,Korry Switch,,1

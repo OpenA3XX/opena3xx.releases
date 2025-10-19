@@ -46,12 +46,6 @@ J4,Conn_02x02_Counter_Clockwise,PinHeader_1x04_P2.54mm_Vertical,156.83,-101.3,18
 J5,Conn_02x02_Counter_Clockwise,PinHeader_1x04_P2.54mm_Vertical,247.9,-101.15,180.0,top
 J6,Conn_02x02_Counter_Clockwise,PinHeader_1x04_P2.54mm_Vertical,202.4,-101.15,180.0,top
 J7,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,179.85,-150.4,0.0,bottom
-KR1,~,Korry Switch,156.95,-64.01,0.0,top
-KR2,~,Korry Switch,202.3,-63.86,0.0,top
-KR3,~,Korry Switch,247.4,-63.96,0.0,top
-KR4,~,Korry Switch,156.95,-134.01,0.0,top
-KR5,~,Korry Switch,202.1,-134.06,0.0,top
-KR6,~,Korry Switch,247.3,-133.86,0.0,top
 R1,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,173.2,-80.9,0.0,top
 R10,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,224.65,-142.4,0.0,top
 R11,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,224.2,-127.3,0.0,top

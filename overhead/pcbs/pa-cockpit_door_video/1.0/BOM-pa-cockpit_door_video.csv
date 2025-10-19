@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC,Quantity
+LED,"D1,D10,D11,D12,D13,D14,D15,D16,D17,D18,D2,D3,D4,D5,D6,D7,D8,D9",LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,C2843803,18
+220R,"R1,R2,R3,R4,R5,R6",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C2933785,6
+Conn_02x01,"J1,J2",TerminalBlock_bornier-2_P5.08mm,C592976,2
+Conn_02x20_Counter_Clockwise,J3,PinHeader_2x20_P2.54mm_Vertical,C725892,1
